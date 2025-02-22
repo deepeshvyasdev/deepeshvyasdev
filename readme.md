@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Next.js and deployment.**
 
-- 📫 How to reach me **deepeshv2025@gmail.com**
+- 📫 How to reach me **deepeshvyas2025@gmail.com**
 
 - 📄 Know about my experiences [https://deepesh-vyas.carrd.co/](https://deepesh-vyas.carrd.co/)
 
